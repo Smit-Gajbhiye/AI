@@ -1,0 +1,6 @@
+{
+  "name": "AI Practical Codebook",
+  "description": "Practical Programs. Questions. Solutions. Independent Artificial Intelligence practical reference featuring Laboratory Practicals (Part 01) and Examination Question Bank (Part 02) with verified Python code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
